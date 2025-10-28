@@ -15,4 +15,4 @@ To see and execute the notebooks, please follow the links below:
 
 1. Click the Binder link corresponding to the notebook you want to explore.
 2. Wait for Binder to launch the interactive environment (may take a few minutes).
-3. You can now 
+3. You can now run the code
